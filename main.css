@@ -1,0 +1,75 @@
+.dragon{
+    font-size: 30px;
+font-family: 'Roboto Mono', monospace;
+
+}
+body{
+    background-color: #f5cac3;
+}
+li{
+    margin-left: 200px;
+    display: inline-block;
+}
+a{
+    /* color: #ffffffff; */
+    text-decoration: none;
+    font-weight: bold;
+    color: #f72585;
+    
+} 
+a:hover{
+    background-color: aqua;
+}
+.parant{
+display: flex;
+background-color: #faedcd;
+width: 1200px;
+flex-wrap: wrap;
+padding: 20px;
+justify-content: space-around;
+margin: auto;
+}
+.parant div{
+    width: 300px;
+    margin-left: 20px;
+}
+h2{
+    color: #f28482;
+    text-align: center;
+    font-style: italic;
+    text-decoration: underline #f72585 ;    
+}
+img{
+    width: 300px;
+}
+.a{
+    display: flex;
+    background-color: #faedcd;
+    width: 1200px;
+    flex-wrap: wrap;
+    padding: 20px;
+    justify-content: space-around;
+    margin: auto;
+    height: 700px;
+    }
+    .a div{
+        width: 300px;
+        margin-left: 20px;
+        text-align: center;
+    }
+    .a img{
+        width:100px ;
+    }
+    .a h2{
+        color: #f28482;
+        text-align: center;
+        font-style: italic;
+        text-decoration: underline #f72585 ;
+        /* margin-right: 171px;     */
+    }
+    .l{
+        width: 118px;
+    }
+    .o{
+        width: 118px;
+    }
